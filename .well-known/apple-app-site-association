@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2FR88C79A9.com.quoine.quoinex.light"
+        ],
+        "components": [
+          {
+            "/": "/fanads",
+            "comment": "Matches any URL with a path that starts with /fanads."
+          }
+        ]
+      }
+    ]
+  }
+}
